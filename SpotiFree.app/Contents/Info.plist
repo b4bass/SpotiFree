@@ -6,6 +6,8 @@
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
+	<key>NSUIElement</key>
+	<string>1</string>
 	<key>CFBundleExecutable</key>
 	<string>applet</string>
 	<key>CFBundleIconFile</key>
@@ -38,7 +40,7 @@
 		<key>positionOfDivider</key>
 		<real>333</real>
 		<key>savedFrame</key>
-		<string>7 281 602 597 0 0 1440 878 </string>
+		<string>49 235 602 597 0 0 1440 878 </string>
 		<key>selectedTabView</key>
 		<string>result</string>
 	</dict>
